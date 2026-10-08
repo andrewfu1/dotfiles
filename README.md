@@ -1,6 +1,6 @@
 # Dotfiles
 
-Pure-style Starship prompt with Catppuccin Mocha colors for iTerm2 on macOS and Ubuntu servers accessed over SSH.
+Pure style Starship prompt with Catppuccin Mocha colors for iTerm2 on macOS and Ubuntu servers accessed over SSH.
 
 ```text
 ~/code/training  main  12m 8s
@@ -18,16 +18,6 @@ cd ~/dotfiles
 ```
 
 Open a new shell. On macOS, select **Dotfiles Mocha** in iTerm2's Profiles menu.
-
-## Update
-
-Run on each machine:
-
-```sh
-cd ~/dotfiles
-git pull --ff-only
-./install.sh
-```
 
 ## Credits
 
