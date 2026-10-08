@@ -1,6 +1,6 @@
 # Dotfiles
 
-Pure-style Starship prompt with Catppuccin Mocha colors for macOS and Ubuntu.
+Pure-style Starship prompt with Catppuccin Mocha colors for iTerm2 on macOS and Ubuntu servers accessed over SSH.
 
 ```text
 ~/code/training  main  12m 8s
