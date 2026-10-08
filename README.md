@@ -29,10 +29,6 @@ git pull --ff-only
 ./install.sh
 ```
 
-Safe to rerun: existing configs are backed up, and startup blocks aren't duplicated. Keep the repo in place; configs link to it.
-
-Edit `config/starship.toml` to customize the prompt.
-
 ## Credits
 
-[Pure](https://starship.rs/presets/pure-preset) · [Catppuccin Starship](https://github.com/catppuccin/starship) · [Catppuccin iTerm2](https://github.com/catppuccin/iterm) (MIT license included)
+[Pure](https://starship.rs/presets/pure-preset) · [Catppuccin Starship](https://github.com/catppuccin/starship) · [Catppuccin iTerm2](https://github.com/catppuccin/iterm)
