@@ -58,7 +58,7 @@ esac
             print(f'Updated {rc}')
     if mac:
         link(REPO / 'iterm/dotfiles.json', home / 'Library/Application Support/iTerm2/DynamicProfiles/andrew-dotfiles.json')
-        print('iTerm2: select the "Dotfiles — Mocha" profile; set it as default in Settings → Profiles if desired.')
+        print('iTerm2: select the "Dotfiles Mocha" profile; set it as default in Settings → Profiles if desired.')
 
 
 if __name__ == '__main__':

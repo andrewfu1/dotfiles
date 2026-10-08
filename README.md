@@ -17,7 +17,7 @@ cd ~/dotfiles
 ./install.sh
 ```
 
-Open a new shell. On macOS, select **Dotfiles — Mocha** in iTerm2's Profiles menu.
+Open a new shell. On macOS, select **Dotfiles Mocha** in iTerm2's Profiles menu.
 
 ## Update
 
